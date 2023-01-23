@@ -1,0 +1,1 @@
+2023-01-23 21:17:48 - kick command works i guess
