@@ -14,7 +14,7 @@ import base64 ### im doing this so ppl cant be mad at the swears in the FW.txt l
 
 ### bot settings
 bot = commands.Bot(command_prefix=['!', '/'], description='a boot', intents=discord.Intents.all())
-Token = "MTA2NDAzMzg2MDU5NTIyMDQ5MQ.G1F1Mp.u1bKk-XIEEwjpS5RHZQO2aidQ8gFFwFmYXnjLE"
+Token = ""
 
 ### filter settings
 filteredWords = "FW.txt"
@@ -32,7 +32,7 @@ CHANNEL_ID = 1061460237254672404
 ROLE_NAME = "BitCoin Subscriber"
 
 ### hypixel settings
-yourKey = "5540350d-71bb-4557-b64a-c3881708df0a"
+yourKey = ""
 
 ### def's
 
